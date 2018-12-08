@@ -1,4 +1,6 @@
-## Northwestern Football Analytics
+# Northwestern Football Analytics
+## Machine Learning Fall Semester 2018
+### Noah Caldwell-Gatsos noahcaldwell-gatsos2019@u.northwestern.edu
 
 You can use the [editor on GitHub](https://github.com/ncaldwell17/ncaldwell17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
