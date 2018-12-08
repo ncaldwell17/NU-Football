@@ -1,7 +1,11 @@
-theme: jekyll-theme-tactile
-title: Northwestern Football Analytics
-url: "ncaldwell17.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+#basic options
+title: Northwestern-Football-Analytics
+author: ncaldwell17
+email: noahcaldwell14@yahoo.com
+description: site for ML final project
+
+#Build settings 
+markdown: kramdown
+theme: minima
 
    
