@@ -1,1 +1,1 @@
-gem 'jekyll-sitemap' 
+gem "minima", "~> 2.0"
