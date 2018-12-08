@@ -2,7 +2,7 @@
 # Northwestern Football Analytics
 ## _Northwestern University_
 ## _Machine Learning Fall Semester 2018_
-![Background_image] (source/images/background.jpg)
+![Background_image] (ncaldwell17.github.io/_source/_images/background.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/ncaldwell17/ncaldwell17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
