@@ -1,9 +1,7 @@
 theme: jekyll-theme-tactile
 title: Northwestern Football Analytics
+url: "ncaldwell17.github.io" # the base hostname & protocol for your site
 plugins:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
+  - jekyll-sitemap
+
    
