@@ -7,5 +7,6 @@ description: site for ML final project
 #Build settings 
 markdown: kramdown
 theme: minima
-
+baseurl: "/northwestern_football"
+url: "ncaldwell17.github.io" 
    
