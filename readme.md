@@ -1,8 +1,8 @@
-### _Noah Caldwell-Gatsos, Vamsi Banda, Eric Yang_
 # Northwestern Football Analytics
+### Noah Caldwell-Gatsos
 ## _Northwestern University_
 ## _Machine Learning Fall Semester 2018_
-![Background_image] (ncaldwell17.github.io/_source/_images/background.jpg)
+![Background_image](ncaldwell17.github.io/_source/_images/background.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/ncaldwell17/ncaldwell17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
