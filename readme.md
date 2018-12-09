@@ -5,7 +5,7 @@
 ### Eric Yang
 ## _Northwestern University_
 ## _Machine Learning Fall Semester 2018_
-![background](/_source/_images/background.JPG)
+![background](/_source/_images/background.jpg)
 
 
 
