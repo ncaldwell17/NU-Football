@@ -1,6 +1,7 @@
 <h3 style="text-align:center; color:white; font-family:verdana;">Noah Caldwell-Gatsos</h3>
 <h3 style="text-align:center; color:white; font-family:courier">Vamsi Banda</h3>
 <h3 style="text-align:center; color:white;">Eric Yang</h3>
+# Update
 
 <h1 style="text-align:center;">Northwestern Football Analytics</h1>
 
