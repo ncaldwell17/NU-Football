@@ -7,4 +7,5 @@ description: site for ML final project
 #Build settings 
 markdown: kramdown
 theme: jekyll-theme-midnight
+show_downloads: true
    
