@@ -5,8 +5,8 @@
 <h3 style="text-align:center;">Vamsi Banda</h3>
 <h3 style="text-align:center;">Eric Yang</h3>
 
-Northwestern University
-Machine Learning Fall Semester 2018
+<h2 style="text-align:center;"><i>Northwestern University</i></h2>
+<h2 style="text-align:center;">Machine Learning Fall Semester 2018</h2>
 
 ![background](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/background.jpg)
 
