@@ -1,6 +1,6 @@
-<h3 style="text-align:center; color:white; font-family:georgia;">Noah Caldwell-Gatsos</h3>
-<h3 style="text-align:center; color:white; font-family:georgia">Vamsi Banda</h3>
-<h3 style="text-align:center; color:white; font-family:georgia">Eric Yang</h3>
+<h3 style="text-align:center; color:white; font-family:verdana;">Noah Caldwell-Gatsos</h3>
+<h3 style="text-align:center; color:white; font-family:times">Vamsi Banda</h3>
+<h3 style="text-align:center; color:white; font-family:times">Eric Yang</h3>
 
 <h1 style="text-align:center;">Northwestern Football Analytics</h1>
 
