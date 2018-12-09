@@ -1,12 +1,13 @@
 
 <h1 style="text-align:center;">Northwestern Football Analytics</h1>
 
-<h3 style="text-align:center;">_Noah Caldwell-Gatsos_</h3>
-<h3 style="text-align:center;">_Vamsi Banda_</h3>
-<h3 style="text-align:center;">_Eric Yang_</h3>
+<h3 style="text-align:center; color:blue;">Noah Caldwell-Gatsos</h3>
+<h3 style="text-align:center;">Vamsi Banda</h3>
+<h3 style="text-align:center;">Eric Yang</h3>
 
-_Northwestern University_
-_Machine Learning Fall Semester 2018_
+Northwestern University
+Machine Learning Fall Semester 2018
+
 ![background](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/background.jpg)
 
 
