@@ -1,11 +1,11 @@
 
-# Northwestern Football Analytics
-### Noah Caldwell-Gatsos
-### Vamsi Banda
-### Eric Yang
-## _Northwestern University_
-## _Machine Learning Fall Semester 2018_
-![background](/_source/_images/background.jpg)
+Northwestern Football Analytics
+Noah Caldwell-Gatsos
+Vamsi Banda
+Eric Yang
+_Northwestern University_
+_Machine Learning Fall Semester 2018_
+![background](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/background.jpg)
 
 
 
