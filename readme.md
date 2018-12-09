@@ -1,5 +1,6 @@
 
-Northwestern Football Analytics
+<h1 style="text-align:center;">Northwestern Football Analytics</h1>
+
 Noah Caldwell-Gatsos
 Vamsi Banda
 Eric Yang
