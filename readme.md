@@ -1,11 +1,11 @@
-# Update Check One
+
 # Northwestern Football Analytics
 ### Noah Caldwell-Gatsos
 ### Vamsi Banda
 ### Eric Yang
 ## _Northwestern University_
 ## _Machine Learning Fall Semester 2018_
-![background](https://github.com/ncaldwell17/ncaldwell17.github.io/blob/master/_source/_images/background.jpg)
+![background](/_source/_images/background.jpg)
 
 
 
