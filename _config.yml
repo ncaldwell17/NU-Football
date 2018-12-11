@@ -3,6 +3,8 @@ title: Northwestern Football Analytics
 author: ncaldwell17
 email: noahcaldwell-gatsos2019@u.northwestern.edu
 description: Machine Learning Final Project
+url: "http://ncaldwell17.github.io/NU-Football"
+baseurl: "/NU-Football"
 
 #Build settings 
 markdown: kramdown
