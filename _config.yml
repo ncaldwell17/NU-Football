@@ -9,10 +9,4 @@ markdown: kramdown
 theme: jekyll-theme-midnight
 show_downloads: true
 
-# Plugins
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-sitemap
+
