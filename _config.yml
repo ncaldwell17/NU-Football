@@ -6,7 +6,7 @@ description: Machine Learning Final Project
 
 #Build settings 
 markdown: kramdown
-theme: jeykyll-theme-cayman
+theme: jeykyll-theme-midnight
 show_downloads: true
 
 
