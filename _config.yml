@@ -1,8 +1,8 @@
 #basic options
-title: Northwestern-Football-Analytics
+title: Northwestern Football Analytics
 author: ncaldwell17
 email: noahcaldwell-gatsos2019@u.northwestern.edu
-description: site for ML final project
+description: Machine Learning Final Project
 
 #Build settings 
 markdown: kramdown
