@@ -9,4 +9,16 @@ markdown: kramdown
 theme: jeykyll-theme-midnight
 show_downloads: true
 
+#Navigation Bar Options
+navbar-links:
+  Visualizations:https:ncaldwell17.github.io/NU-Football/visualizations
+  
+#Default YAML Values
+defaults:
+    scope:
+      path: all files
+    values:
+      layout: "page"
+      show-avatar: true
+
 
