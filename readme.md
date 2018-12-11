@@ -2,7 +2,7 @@
 <h3 style="text-align:center; color:white;"><i>Vamsi Banda</i></h3>
 <h3 style="text-align:center; color:white;"><i>Eric Yang</i></h3>
 
-<h1 style="text-align:center;">Northwestern Football Analytics</h1>
+<h1 style="text-align:center;">Applying Machine Learning Strategies to Football Analytics</h1>
 
 <h2 style="text-align:center;"><i>Northwestern University</i></h2>
 <h2 style="text-align:center;"><i>Machine Learning Fall Semester 2018</i></h2>
