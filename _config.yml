@@ -7,7 +7,7 @@ description: Machine Learning Final Project
 #Build settings 
 markdown: kramdown
 theme: jeykyll-theme-midnight
-show_downloads: true
+show_downloads: false
 
 #Navigation Bar Options
 navbar-links:
