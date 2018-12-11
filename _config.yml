@@ -13,7 +13,14 @@ show_downloads: false
 
 #Navigation Bar Options
 navbar-links:
-  Visualizations:https:ncaldwell17.github.io/NU-Football/visualizations
+  About Me: "aboutme"
+  Visualizations2: "visualizations"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
+  Visualizations: "https:ncaldwell17.github.io/NU-Football/visualizations"
   
 #Default YAML Values
 defaults:
