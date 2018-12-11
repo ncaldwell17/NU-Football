@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visualization
-permalink: /visualization/
+permalink: /visualizations/
 ---
 
 Test Test Test
