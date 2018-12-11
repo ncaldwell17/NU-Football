@@ -24,5 +24,6 @@ defaults:
 #plugins
 plugins:
   - jeykyll-sitemap
+  - jeykyll-paginate 
 
 
