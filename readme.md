@@ -38,4 +38,9 @@
 <div align="center"><a href="http://ncaldwell17.github.com/NU-Football/Selected-Feature-Analysis.pdf">Selected Feature Analysis</a></div>
 <div align="center"><a href="http://ncaldwell17.github.com/NU-Football/ROC-Plot.png">Visualization - ROC Plot</a></div>
 
+<div align="center"><h2 style="text-align:center;"><u>Emails</u></h2></div>
+
+<p><a href="mailto:EricYang2015@u.northwestern.edu?>Eric Yang</a></p>
+
+
 
