@@ -40,6 +40,8 @@
 <div align="center"><h2 style="text-align:center;"><u>Emails</u></h2></div>
 
 <p><a href="mailto:EricYang2015@u.northwestern.edu?">Eric Yang</a></p>
+<p><a href="mailto:vamsibanda@hotmail.com?">Vamsi Banda</a></p>
+<p><a href="mailto:noahcaldwell-gatsos2019@u.northwestern.edu">Noah CG</a></p>
 
 
 
