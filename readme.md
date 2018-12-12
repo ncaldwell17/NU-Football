@@ -5,7 +5,7 @@
 
 <h1 style="text-align:center;">Applying Machine Learning Strategies to Football Analytics</h1>
 
-![background](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/background.jpg)
+![background](https://raw.githubusercontent.com/ncaldwell17/NU-Football/master/_source/_images/background.jpg)
 
 
 <h2 style="text-align:center;"><i>ABSTRACT</i></h2>
@@ -19,7 +19,7 @@
 <h3 style="text-align:center;"><u>Results</u></h3>
 <p style="text-align:center;">We found that the Random Forest classifier provided the best training and test accuracy of 85.9% and 85.71% respectively. The results of the other models we tried included:</p>
 
-![table_one](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/Screen%20Shot%202018-12-11%20at%203.50.22%20PM.png)
+![table_one](https://raw.githubusercontent.com/ncaldwell17/NU-Football/master/_source/_images/Screen%20Shot%202018-12-11%20at%203.50.22%20PM.png)
 
 <p style="text-align:center;">We also evaluated the model looking at their Receiver Operating Characteristic (ROC) curves, which quantify sensitivity and specificity. The Random Forest model performed the best with this metric as well:</p>
 
@@ -29,7 +29,7 @@
 <p style="text-align:center;">Analyzing the Random Forest model, we were able to rank the attributes in order of importance.</p>
 
 ```Figure 2: Feature Importance```
-![figure_two](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/Importances.png)
+![figure_two](https://raw.githubusercontent.com/ncaldwell17/NU-Football/master/_source/_images/Importances.png)
 
 <div align="center"><h2 style="text-align:center;"><u>Downloads</u></h2></div>
 
