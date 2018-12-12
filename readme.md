@@ -32,6 +32,7 @@
 ![figure_two](https://raw.githubusercontent.com/ncaldwell17/ncaldwell17.github.io/master/_source/_images/Importances.png)
 
 <h2 style="text-align:center;"><u>Downloads</u></h2>
+
 [Final Project Write-Up][http://ncaldwell17.github.com/NU-Football/Final-Writeup.pdf]
 [Final Project Code][http://ncaldwell17.github.com/NU-Football/Final_Code.pdf]
 [Selected Feature Analysis][http://ncaldwell17.github.com/NU-Football/Selected-Feature-Analysis.pdf]
