@@ -8,7 +8,7 @@ baseurl: "/NU-Football"
 
 #Build settings 
 markdown: kramdown
-theme: jeykyll-theme-midnight
+theme: jekyll-theme-midnight
 show_downloads: false
 
 #Navigation Bar Options
