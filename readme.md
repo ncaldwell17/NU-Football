@@ -33,9 +33,9 @@
 
 <div align="center"><h2 style="text-align:center;"><u>Downloads</u></h2></div>
 
-<div align="center"><a href="http://ncaldwell17.github.com/NU-Football/Final-Detailed-Writeup.pdf">Final Project Write-Up</a></div>
+<div align="center"><a href="http://ncaldwell17.github.io/NU-Football/Final-Detailed-Writeup.pdf">Final Project Write-Up</a></div>
 <div align="center"><a href="https://ncaldwell17.github.io/NU-Football/Final_Code.pdf">Final Project Code</a></div>
-<div align="center"><a href="http://ncaldwell17.github.com/NU-Football/Selected-Features-Analysis.pdf">Selected Feature Analysis</a></div>
+<div align="center"><a href="http://ncaldwell17.github.io/NU-Football/Selected-Features-Analysis.pdf">Selected Feature Analysis</a></div>
 
 <div align="center"><h2 style="text-align:center;"><u>Emails</u></h2></div>
 
