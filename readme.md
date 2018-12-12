@@ -33,9 +33,9 @@
 
 <h2 style="text-align:center;"><u>Downloads</u></h2>
 
-[Final Project Write-Up][http://ncaldwell17.github.com/NU-Football/Final-Writeup.pdf]
-[Final Project Code][http://ncaldwell17.github.com/NU-Football/Final_Code.pdf]
-[Selected Feature Analysis][http://ncaldwell17.github.com/NU-Football/Selected-Feature-Analysis.pdf]
-[Visualization - ROC Plot][http://ncaldwell17.github.com/NU-Football/ROC-Plot.png]
+<div><a href="http://ncaldwell17.github.com/NU-Football/Final-Writeup.pdf">Final Project Write-Up</a></div>
+<div><a href=""http://ncaldwell17.github.com/NU-Football/Final_Code.pdf"">Final Project Code</a></div>
+<div><a href="http://ncaldwell17.github.com/NU-Football/Selected-Feature-Analysis.pdf">Selected Feature Analysis</a></div>
+<div><a href="http://ncaldwell17.github.com/NU-Football/ROC-Plot.png">Visualization - ROC Plot</a></div>
 
 
